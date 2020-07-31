@@ -1,0 +1,27 @@
+h1{
+color: #1ABC9C;
+font-weight:bold;
+font-family:"Italic";
+font-size: 70px;
+text-align:center;
+}
+IMG.imgcenter{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+}
+
+body{
+	background-color:#EBEDEF;
+}
+p{
+	font-family:"Italic";
+	font-size:35px;
+	text-align:justify;
+}
+hr{height:10px;
+background-color:#E6B0AA;
+width: 80%;
+border-color: blue;
+}
